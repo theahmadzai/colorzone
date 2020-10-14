@@ -1,0 +1,30 @@
+{
+  "name": "colorzone",
+  "version": "1.0.0",
+  "description": "A complete color toolbox",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theahmadzai/colorzone.git"
+  },
+  "author": "Javed Ahmadzai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theahmadzai/colorzone/issues"
+  },
+  "homepage": "https://github.com/theahmadzai/colorzone#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^26.5.3"
+  }
+}
