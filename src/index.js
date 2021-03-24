@@ -1,1 +1,5 @@
-exports.color = (c) => c
+const Contrast = require('./contrast')
+
+module.exports = {
+  Contrast,
+}
